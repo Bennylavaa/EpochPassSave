@@ -13,4 +13,4 @@ Simple login password saver for Project Epoch
 # Note:
 Password is saved in plain text in the /WTF/config.wtf file.
 
-Multi-Account version can be found here: https://github.com/GitGurky/Epoch-Autologin
+Multi-Account version can be found here: https://github.com/Bennylavaa/Epoch-Autologin
