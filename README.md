@@ -1,7 +1,7 @@
 # EpochPassSave
 Simple login password saver for Project Epoch
 
-![image](https://github.com/Bennylavaa/EpochPassSave/assets/90982783/dd82de17-078d-4dda-b6e8-cc7d036f8020)
+![image](https://github.com/Bennylavaa/EpochPassSave/assets/165105701/70c6c857-97c9-4374-84e3-619fc9922a91)
 
 # Installation:
 1. [Download](https://github.com/Bennylavaa/EpochPassSave/archive/refs/heads/master.zip)
