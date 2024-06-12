@@ -1,10 +1,10 @@
 # EpochPassSave
 Simple login password saver for Project Epoch
 
-![image](https://github.com/GitGurky/EpochPassSave/assets/90982783/dd82de17-078d-4dda-b6e8-cc7d036f8020)
+![image](https://github.com/Bennylavaa/EpochPassSave/assets/90982783/dd82de17-078d-4dda-b6e8-cc7d036f8020)
 
 # Installation:
-1. [Download](https://github.com/GitGurky/EpochPassSave/archive/refs/heads/master.zip)
+1. [Download](https://github.com/Bennylavaa/EpochPassSave/archive/refs/heads/master.zip)
 2. Unpack the Zip file
 3. Open the archive "EpochPassSave-main"
 4. Copy the Interface folder into your Project Epoch Directory
