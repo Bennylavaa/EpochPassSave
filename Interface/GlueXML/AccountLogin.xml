@@ -376,8 +376,8 @@
 							</OnLoad>
 						</Scripts>
 					</Frame>
-					<Button name="AccountLoginLoginButton" inherits="GlueButtonTemplateBlue" text="LOGIN">
-						<Size x="220" y="45"/>
+					<Button name="AccountLoginLoginButton" inherits="GlueButtonTemplateLarge" text="LOGIN">
+						<Size x="220" y="110"/>
 						<Anchors>
 							<Anchor point="CENTER" relativeTo="AccountLoginPasswordEdit" relativePoint="TOP">
 								<Offset>
